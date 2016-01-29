@@ -22,7 +22,7 @@
 <body leftmargin="0" topmargin="0">
 <!-- ------------------------------------- -->
  
-<div class='title'>test5</div>
+<div class='title'>Gethub 실습6</div>
 
 <!-- ------------------------------------- -->
 </body>
